@@ -1,6 +1,7 @@
 In this assignment, let's build a Quiz Question Page by applying the concepts we learned till now. You can use the Bootstrap concepts as well.
 Refer to the below image.
 ![image](https://github.com/bukka5sandhya/QuizQuestionPage/assets/133884532/5d14c7cc-8e7b-4a02-89e4-a19a927d57ab)
+
 Note:
 
 Try to achieve the design as close as possible.
